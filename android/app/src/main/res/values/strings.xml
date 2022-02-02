@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">com.fiberchat.fiberchat</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+      <string name="facebook_app_id">134095884880735</string>
+<string name="fb_login_protocol_scheme">fb134095884880735</string>
+</resources>
+

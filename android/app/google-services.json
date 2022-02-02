@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "975548478336",
+    "project_id": "switchapp-8acfa",
+    "storage_bucket": "switchapp-8acfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975548478336:android:ec7f3f37b5c5c1bff00765",
+        "android_client_info": {
+          "package_name": "com.pixalive.switchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975548478336-dq6k63oqs4q5e2fa5s51fbm4fqaftrh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pixalive.switchapp",
+            "certificate_hash": "79845c7def67eff8584988922c43c0f0ce1fd3ba"
+          }
+        },
+        {
+          "client_id": "975548478336-6qtjavng4vasonhbrrmbiq2h0daqvt4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSSgZpKfMcGmSTI6TyshGkGM1WRacegY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975548478336-6qtjavng4vasonhbrrmbiq2h0daqvt4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

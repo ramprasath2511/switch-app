@@ -1,0 +1,1220 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-12.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "after_layout",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/after_layout-1.0.7+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "agora_rtc_engine",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/agora_rtc_engine-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-0.40.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "app_settings",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "archive",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/archive-2.0.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/args-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "asn1lib",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/asn1lib-0.5.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "build",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/build-1.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "built_collection",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/built_collection-4.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "built_value",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/built_value-7.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "cached_network_image",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-2.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "carousel_pro",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_pro-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "chewie",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/chewie-0.12.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/cli_util-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cloud_firestore",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "cloud_firestore_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_platform_interface-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "cloud_firestore_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.2.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "cloud_functions",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_functions-0.7.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "cloud_functions_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_functions_platform_interface-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "cloud_functions_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_functions_web-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "code_builder",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/code_builder-3.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "connectivity",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "connectivity_for_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.3.1+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "connectivity_macos",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.1.0+7",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "connectivity_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_platform_interface-1.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "contacts_service",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/contacts_service-0.2.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.17"
+    },
+    {
+      "name": "coverage",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/coverage-0.14.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "csslib",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/csslib-0.16.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "dart_style",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/dart_style-1.3.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "data_connection_checker",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/data_connection_checker-0.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "diacritic",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/diacritic-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "dio",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "dotted_border",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/dotted_border-1.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "dropdown_formfield",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/dropdown_formfield-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "encrypt",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/encrypt-3.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "file_picker",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-1.4.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "firebase_auth",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.3.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "firebase_dynamic_links",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/git/flutterfire-3b05296582a531c74438a3d84b1318a3d4ce873f/packages/firebase_dynamic_links",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "firebase_messaging",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-7.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "firebase_storage",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-4.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/fixnum-0.10.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_blurhash",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blurhash-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "flutter_cache_manager",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "flutter_driver",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/packages/flutter_driver",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_image_compress",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "flutter_linkify",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_linkify-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "flutter_native_timezone",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_timezone-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_secure_storage",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-3.3.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_sound",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sound-7.7.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "flutter_sound_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sound_platform_interface-7.7.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_sound_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sound_web-7.7.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_spinkit",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_spinkit-4.1.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_video_info",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_video_info-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fluttertoast",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "fuchsia_remote_debug_protocol",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/packages/fuchsia_remote_debug_protocol",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "geolocator",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-6.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "geolocator_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_platform_interface-1.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "geolocator_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_web-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "giphy_client",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/giphy_client-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/glob-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "html",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/html-0.14.0+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_auth",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/http_auth-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "http_multi_server",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/http_multi_server-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "image_cropper",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.20"
+    },
+    {
+      "name": "image_picker",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+15",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "image_picker_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_platform_interface-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "import_js_library",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/import_js_library-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.16.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "intl_phone_field",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/intl_phone_field-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "io",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/io-0.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "jiffy",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/jiffy-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/json_annotation-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "launch_review",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/launch_review-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "linkify",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/linkify-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "local_auth",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth-0.6.3+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "localstorage",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/localstorage-3.0.6+9",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "logger",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/logger-0.9.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/logging-0.11.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/mime-0.9.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "mockito",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/mockito-4.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/nested-0.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "node_interop",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/node_interop-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "node_io",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/node_io-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "node_preamble",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/node_preamble-1.4.12",
+      "packageUri": "lib/",
+      "languageVersion": "1.24"
+    },
+    {
+      "name": "ntp",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/ntp-1.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "octo_image",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/octo_image-0.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "overlay_support",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/overlay_support-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/package_config-1.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "package_info",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.3+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_drawing",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.4.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "1.19"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "1.19"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.27",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_macos",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+6",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "percent_indicator",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/percent_indicator-2.1.9+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "permission_handler",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-3.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "photo_view",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/photo_view-0.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "pin_entry_text_field",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/pin_entry_text_field-0.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "pinch_zoom_image_last",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/pinch_zoom_image_last-0.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/platform-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/pointycastle-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "0.8"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/pool-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "process",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "progress_dialog",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/provider-4.3.2+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/pub_semver-1.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "random_string",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/random_string-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "recase",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/recase-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.23.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "scoped_model",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/scoped_model-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "sentry",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/sentry-2.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "share",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.5+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_macos",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+11",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-0.0.1+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shelf",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shelf-0.7.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shelf_packages_handler",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shelf_packages_handler-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "shelf_static",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shelf_static-0.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "shelf_web_socket",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-0.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "simple_url_preview",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/simple_url_preview-0.1.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_gen",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-0.9.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "source_map_stack_trace",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/source_map_stack_trace-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_maps",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/source_maps-0.10.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sqflite",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite_common-1.0.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "string_validator",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/string_validator-0.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "sync_http",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/sync_http-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/synchronized-2.2.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/test-1.16.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.19",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_core",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/test_core-0.3.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "universal_io",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/universal_io-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "universal_platform",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/universal_platform-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "url_launcher",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-0.0.1+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.5+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-0.0.1+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "usage",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/usage-3.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "video_player",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "video_player_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "video_player_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-0.1.4+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "video_thumbnail",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/video_thumbnail-0.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/vm_service-5.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "wakelock",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.2.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "wakelock_platform_interface",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_platform_interface-0.1.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "wakelock_web",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_web-0.1.0+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/watcher-0.9.7+15",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "web_socket_channel",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "webdriver",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/webdriver-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "webkit_inspection_protocol",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/webkit_inspection_protocol-0.7.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/win32-1.7.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/yaml-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "zone_local",
+      "rootUri": "file:///Users/veena/Desktop/Flutter1/flutter/.pub-cache/hosted/pub.dartlang.org/zone_local-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "fiberchat",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2021-04-03T07:16:34.547889Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.2"
+}
